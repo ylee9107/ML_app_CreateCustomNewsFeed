@@ -21,7 +21,7 @@ The dataset for this project was obtained directly from websites of personal int
 
 ## To run the ‘main.py’ file:
 
-Open command line and navigate to the folder/directory. then type in " python grab_news” as an example.
+Open command line and navigate to the folder/directory. then type in " python grab_news” as an example. This app runs every 480 mins.
 
 ## Required Libraries:
 
